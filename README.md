@@ -12,5 +12,3 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Sou novo no mundo da programação e estudo a praticamente 6 meses, me descobri na área de tecnologia e amo estudar linguagens de programação "Front-end"
-estou buscando sempre aprender e como desenvolver páginas com HTML, CSS e JavaScript! 👨‍💻
